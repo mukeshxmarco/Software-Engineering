@@ -1,1 +1,38 @@
-# Engineering
+# Software Engineering Notes
+
+This repository contains comprehensive notes on various software engineering topics.
+
+## Table of Contents
+
+### [API](api/INFO.md)
+- [API Design](api/api-design/INFO.md)
+- [API Security](api/api-security/INFO.md)
+  - [CSRF](api/api-security/CSRF.md)
+  - [Rate Limiting](api/api-security/RATE-LIMITING.md)
+
+### [Authentication](auth/INFO.md)
+- [JWT](auth/JWT/INFO.md)
+
+### [Caching](caching/INFO.md)
+
+### [Database](database/INFO.md)
+
+### [Docker](docker/INFO.md)
+
+### [Git](git/INFO.md)
+
+### [Networking](networking/)
+- [IP and Ports](networking/IP-Ports/INFO.md)
+- [MAC Address](networking/mac-address/INFO.md)
+- [OSI Model](networking/osi-model/INFO.md)
+- [Protocols](networking/protocols/INFO.md)
+  - [HTTP/HTTPS](networking/protocols/http-https/INFO.md)
+    - [SSL/TLS](networking/protocols/http-https/SSL-TLS/INFO.md)
+      - [Certbot](networking/protocols/http-https/SSL-TLS/CERTBOT.md)
+      - [Let's Encrypt](networking/protocols/http-https/SSL-TLS/LETS-ENCRYPT.md)
+  - [SSH](networking/protocols/ssh/INFO.md)
+  - [TCP](networking/protocols/tcp/INFO.md)
+  - [WebSockets](networking/protocols/websockets/INFO.md)
+- [Proxy](networking/proxy/)
+
+### [System Design](system-design/INFO.md)
