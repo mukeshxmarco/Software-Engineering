@@ -101,7 +101,7 @@ This is called **abstraction**.
 > Only a high-level overview is given here.  
 > Each type will be covered in detail separately.
 
-### REST API
+### **[REST (Representational State Transfer)](types/REST/INFO.md)**
 - Most commonly used
 - Uses [HTTP](/networking/protocols/http-https/INFO.md) [protocol](/networking/protocols/INFO.md)
 - Stateless (each request is independent)
@@ -109,30 +109,30 @@ This is called **abstraction**.
 - Mainly used for CRUD operations
 - One-directional request–response
 
-### WebSocket API
+### **[WebSockets](types/websockets/INFO.md)**
 - Bi-directional communication
 - Persistent connection
 - Used for real-time updates (chat, live data)
 
-### SOAP API
+### **[SOAP](types/SOAP/INFO.md)**
 - XML-based
 - Strict standards
 - Used in legacy enterprise systems
 
-### gRPC
+### **[gRPC](types/gRPC/INFO.md)**
 - High-performance
 - Uses Protocol Buffers
 - Common in microservices
 
-### GraphQL
+### **[GraphQL](types/graphQL/INFO.md)**
 - Client controls data shape
 - Reduces over-fetching
 
-### Webhooks
+### **[Webhooks](types/webhooks/INFO.md)**
 - Event-driven APIs
 - Server sends data automatically on events
 
-### WebRTC
+### **[WebRTC](types/webRTC/INFO.md)**
 - Real-time peer-to-peer communication
 - Used for audio/video calls
 
@@ -144,7 +144,7 @@ This is called **abstraction**.
 
 Basic API security practices include:
 
-- Using **[HTTPS](/networking/protocols/http-https/INFO.md)** for encrypted communication
+- Using **[HTTPS](networking/protocols/http-https/INFO.md)** for encrypted communication
 - Authentication & Authorization (OAuth 2.0, tokens)
 - Rate limiting to prevent abuse
 - API versioning for backward compatibility

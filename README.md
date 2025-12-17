@@ -5,6 +5,15 @@ This repository contains comprehensive notes on various software engineering top
 ## Table of Contents
 
 ### [API](api/INFO.md)
+- [Introduction](api/INFO.md)
+- **API Types**
+  - [REST](api/types/REST/INFO.md)
+  - [GraphQL](api/types/graphQL/INFO.md)
+  - [gRPC](api/types/gRPC/INFO.md)
+  - [SOAP](api/types/SOAP/INFO.md)
+  - [WebSockets](api/types/websockets/INFO.md)
+  - [Webhooks](api/types/webhooks/INFO.md)
+  - [WebRTC](api/types/webRTC/INFO.md)
 - [API Design](api/api-design/INFO.md)
 - [API Security](api/api-security/INFO.md)
   - [CSRF](api/api-security/CSRF.md)
