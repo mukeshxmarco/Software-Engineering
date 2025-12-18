@@ -23,6 +23,7 @@ This repository contains comprehensive notes on various software engineering top
 - [JWT](auth/JWT/INFO.md)
 
 ### [Caching](caching/INFO.md)
+- [Browser Cache](caching/browser-cache/INFO.md)
 
 ### [Database](database/INFO.md)
 
@@ -45,3 +46,7 @@ This repository contains comprehensive notes on various software engineering top
 - [Proxy](networking/proxy/)
 
 ### [System Design](system-design/INFO.md)
+
+### [Web](web/)
+- [Browser Cache](caching/browser-cache.md)
+- [Cookies, Sessions, LocalStorage & SessionStorage](web/cookies-sessions-storage.md)
