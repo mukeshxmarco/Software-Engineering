@@ -28,7 +28,7 @@ This repository contains comprehensive notes on various software engineering top
 
 ### [Docker](docker/INFO.md)
 
-### [Git](git/INFO.md)
+### [Git and GitHub](git/INFO.md)
 
 ### [Networking](networking/)
 - [IP and Ports](networking/IP-Ports/INFO.md)
