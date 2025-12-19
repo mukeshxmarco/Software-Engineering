@@ -22,12 +22,11 @@ This repository contains comprehensive notes on various software engineering top
 ### [Authentication](auth/INFO.md)
 - [JWT](auth/JWT/INFO.md)
 
-### [Caching](caching/INFO.md)
-- [Browser Cache](caching/browser-cache/INFO.md)
+### [Caching](caching/browser-cache.md)
 
 ### [Database](database/INFO.md)
 
-### [Docker](docker/INFO.md)
+### [Docker](docker-&-compose/INFO.md)
 
 ### [Git and GitHub](git/INFO.md)
 
