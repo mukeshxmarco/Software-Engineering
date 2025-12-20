@@ -49,3 +49,6 @@ This repository contains comprehensive notes on various software engineering top
 ### [Web](web/)
 - [Browser Cache](caching/browser-cache.md)
 - [Cookies, Sessions, LocalStorage & SessionStorage](web/cookies-sessions-storage.md)
+
+### Hands-on Experiments
+- [Database Pooling](try/db-pooling/README.md)
