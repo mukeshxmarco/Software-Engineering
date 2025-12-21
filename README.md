@@ -44,6 +44,10 @@ This repository contains comprehensive notes on various software engineering top
   - [WebSockets](networking/protocols/websockets/INFO.md)
 - [Proxy](networking/proxy/)
 
+### [Operating System](os/INFO.md)
+- [Introduction](os/INFO.md)
+- [Processes and Threads](os/process-&-threads.md)
+
 ### [System Design](system-design/INFO.md)
 
 ### [Web](web/)
