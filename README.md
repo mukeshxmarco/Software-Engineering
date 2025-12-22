@@ -2,7 +2,7 @@
 
 This repository contains comprehensive notes on various software engineering topics.
 
-## Table of Contents
+## Table of Contents - [click here](/CONTENT.md)
 
 ### [API](api/INFO.md)
 - [Introduction](api/INFO.md)
