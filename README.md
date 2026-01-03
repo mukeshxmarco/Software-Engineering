@@ -56,3 +56,5 @@ This repository contains comprehensive notes on various software engineering top
 
 ### Hands-on Experiments
 - [Database Pooling](try/db-pooling/README.md)
+- [HTTP/1.1 vs HTTP/2 Performance](try/http/README.md)
+- [Node.js Race Conditions](try/node-js/README.md)
